@@ -17,3 +17,8 @@ credentials.*
 
 # Reviewed source-only download package.
 !downloads/Radar-WiFi-CYD.zip
+
+!downloads/Estacion-Meteo-CYD.zip
+
+# Reviewed public edit only; original footage stays private.
+!docs/media/Estacion-Meteo-CYD-TikTok.mp4

@@ -1,4 +1,11 @@
-# Descargar Radar WiFi CYD
+# Descargar proyectos CYD
+
+| Proyecto | ZIP | Guía |
+|---|---|---|
+| Radar WiFi | [Descargar](Radar-WiFi-CYD.zip) | [Abrir guía](../examples/radar-wifi-cyd/) |
+| Estación meteorológica WiFi | [Descargar](Estacion-Meteo-CYD.zip) | [Abrir guía](../examples/weather-station-cyd/) |
+
+## Radar WiFi CYD
 
 **[Descargar ZIP de fuentes](https://raw.githubusercontent.com/msrobotika/AB-Displays-Lab/main/downloads/Radar-WiFi-CYD.zip)** · [SHA-256](Radar-WiFi-CYD.zip.sha256) · [Contenido y hashes](manifest.json)
 

@@ -3,7 +3,7 @@
 # AB Displays Lab
 ### Pantallas reales · proyectos de MS Robotika
 
-**Primera demostración: Radar WiFi para CYD ESP32**
+**Proyectos CYD: Radar WiFi y estación meteorológica**
 
 **[Descargar Radar WiFi CYD](https://raw.githubusercontent.com/msrobotika/AB-Displays-Lab/main/downloads/Radar-WiFi-CYD.zip)** · [Más proyectos del IDE](https://github.com/msrobotika/AB-MakerIDE-Projects)
 
@@ -16,6 +16,13 @@
 Un radar verde que representa la intensidad de las redes WiFi de **2,4 GHz** en una CYD: barrido animado, lista táctil por señal y detalle por punto de acceso. Proyecto aportado por Abel, creado con AB MakerIDE SUPER. La interfaz se ejecuta en la placa.
 
 **El radio representa RSSI relativo; el ángulo es decorativo. No mide metros ni dirección.** El firmware solicita escaneos pasivos y no se asocia a las redes.
+
+## Proyectos disponibles
+
+| Proyecto | Descargar | Evidencia |
+|---|---|---|
+| [01 · Radar WiFi](examples/radar-wifi-cyd/) | [ZIP de fuentes](downloads/Radar-WiFi-CYD.zip) | [Galería real](docs/GALERIA.md) |
+| [02 · Estación meteorológica](examples/weather-station-cyd/) | [ZIP de fuentes](downloads/Estacion-Meteo-CYD.zip) | [Madrid con datos en el LCD](docs/WEATHER_STATION.md) |
 
 ## Un vistazo
 
