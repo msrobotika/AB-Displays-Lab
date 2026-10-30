@@ -19,3 +19,13 @@ Madrid es la ubicación pública de ejemplo solicitada. Open-Meteo aporta datos 
 ## Publicación
 
 El commit de contenido y su árbol se contrastan por HTTPS anónimo con GitHub. El cierre de publicación se registra después de verificar remoto, descarga ZIP y ausencia de releases, sin publicar automáticamente en TikTok.
+
+## Cierre comprobado por HTTPS anónimo
+
+- [AB-Displays-Lab: a890c48](https://github.com/msrobotika/AB-Displays-Lab/commit/a890c484c5560f49f5603bb7bfa83a028495ff96): público, 80 archivos con ruta y blob idénticos a Git local; cero releases.
+- [AB-MakerIDE-Projects: 3dd193f](https://github.com/msrobotika/AB-MakerIDE-Projects/commit/3dd193fc9d4624de462091b87c47091f1cae6545): público, 26 archivos con ruta y blob idénticos a Git local; cero releases.
+- ZIP meteorológico: HTTP 200 sin autenticación, 12.990 bytes; SHA-256 coincidente con manifiesto e índice. ZIP del radar: HTTP 200 y hash original conservado.
+- Seis capturas verificadas píxel a píxel; vídeo completo decodificado con audio y QR comprobado; enlaces locales revisados.
+- Se contrastaron los archivos públicos y los ZIP con los identificadores privados de la red: ninguna coincidencia. Las tomas del portal están excluidas.
+
+[Resultados comprobados](publication-results.json). Este informe registra los commits de contenido; el commit posterior solo cierra documentación y tareas. Los archivos de TikTok se entregan al autor para su publicación manual.
