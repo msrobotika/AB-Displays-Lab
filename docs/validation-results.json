@@ -42,7 +42,8 @@
     "specs/001-import-radar/checklists/requirements.md",
     "specs/001-import-radar/plan.md",
     "specs/001-import-radar/spec.md",
-    "specs/001-import-radar/tasks.md"
+    "specs/001-import-radar/tasks.md",
+    "specs/001-import-radar/verification.md"
   ],
   "limitations": "Pattern scanning is not proof of absence of all secrets. Visual review of eight redacted PNGs completed separately. No physical device tests executed."
 }

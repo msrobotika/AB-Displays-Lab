@@ -36,12 +36,14 @@ No se ejecutan tests de host de las cabeceras: no hay compilador C++ nativo conf
 
 | Criterio | Resultado y evidencia |
 |---|---|
-| AC1 | Repositorio existente identificado como privado y vacío antes de incorporar; sin crear duplicados ni releases. Verificación remota final registrada al terminar. |
+| AC1 | Repositorio existente identificado como privado y vacío antes de incorporar; sin crear duplicados ni releases. Visibilidad privada y cero releases confirmados tras el push. |
 | AC2 | Seis originales byte a byte; [source-manifest.json](source-manifest.json). |
 | AC3 | README, guía de compilación y pines; enlaces al IDE y su guía consultados en GitHub. Compilación completa con la utilidad incluida. |
 | AC4 | Ocho PNG de una nueva extracción real; cuadros, tiempos, máscaras y hashes en [manifest.json](images/radar-wifi-cyd/manifest.json). |
 | AC5 | Revisión visual y del inventario; recorte LCD y ocultación sólida de identificadores. |
 | AC6 | Compilación actual, vídeo físico, exportación histórica y autopruebas no ejecutadas expresamente separados. |
-| AC7 | Hashes y enlaces internos contrastados; commits y rutas remotos pendientes de la comprobación de entrega. |
+| AC7 | Hashes y enlaces internos contrastados; 36 rutas y SHA de blob coinciden con el commit remoto a7e389f. |
 
 El alcance de aceptación es importar y documentar el proyecto real; las pruebas físicas pendientes no se marcan superadas.
+
+[Verificación remota y aceptación por criterio](../specs/001-import-radar/verification.md).
