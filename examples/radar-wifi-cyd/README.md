@@ -1,5 +1,7 @@
 # Radar WiFi CYD
 
+**[Descargar proyecto listo para abrir](../../downloads/README.md)**
+
 [← Laboratorio](../../README.md) · [Galería](../../docs/GALERIA.md) · [AB MakerIDE SUPER](https://github.com/msrobotika/AB-MakerIDE-SUPER)
 
 Firmware Arduino C++ para el perfil declarado **ESP32-2432S028R**, ILI9341 vertical **240 × 320** y táctil resistivo XPT2046. Los tres archivos de firmware conservan exactamente los bytes aportados.

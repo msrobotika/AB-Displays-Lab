@@ -1,5 +1,7 @@
 # Validación de la incorporación
 
+> Informe histórico de la importación inicial privada. La publicación pública y el ZIP posterior se documentan en [la verificación de publicación](../specs/002-public-catalog/verification.md).
+
 Fecha: **2026-10-30**. Alcance: proyecto aportado y documentación de AB Displays Lab. No se ha accedido a un dispositivo físico.
 
 ## Compilación completa ejecutada

@@ -5,6 +5,8 @@
 
 **Primera demostración: Radar WiFi para CYD ESP32**
 
+**[Descargar Radar WiFi CYD](https://raw.githubusercontent.com/msrobotika/AB-Displays-Lab/main/downloads/Radar-WiFi-CYD.zip)** · [Más proyectos del IDE](https://github.com/msrobotika/AB-MakerIDE-Projects)
+
 [Ver el proyecto](examples/radar-wifi-cyd/) · [AB MakerIDE SUPER](https://github.com/msrobotika/AB-MakerIDE-SUPER) · [Instalar el IDE](https://github.com/msrobotika/AB-MakerIDE-SUPER/blob/main/docs/DESCARGAS_Y_VERSIONES.md)
 
 <img src="docs/images/radar-wifi-cyd/0_radar_home.png" width="330" alt="Radar WiFi ejecutándose en el LCD físico">
@@ -61,4 +63,4 @@ No se ha grabado ni conectado una placa durante esta preparación. [Evidencias y
 | [docs/](docs/) | Galería, validación y procedencia |
 | [specs/001-import-radar/](specs/001-import-radar/) | Especificación, plan, tareas y aceptación |
 
-Repositorio privado. Sin releases ni volcados de firmware. Los originales privados y las copias del dispositivo quedan fuera de Git. No se añade una licencia nueva sin decisión del autor; las dependencias y referencias conservan sus condiciones.
+Repositorio público de proyectos y demostraciones para pantallas. [Licencia MIT](LICENSE) para contenido propio · [Atribuciones](THIRD_PARTY_NOTICES.md) · [Contribuir](CONTRIBUTING.md). Sin releases ni volcados de firmware; las copias del dispositivo y el vídeo completo quedan fuera de Git. [Catálogo de AB MakerIDE SUPER](https://github.com/msrobotika/AB-MakerIDE-Projects).

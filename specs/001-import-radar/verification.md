@@ -1,5 +1,7 @@
 # Verificación y convergencia de la incorporación
 
+> Informe histórico de la importación inicial privada. La publicación pública y el ZIP posterior se documentan en [la verificación de publicación](../002-public-catalog/verification.md).
+
 Fecha: 2026-10-30. Resultado: **Convergente para el alcance de importación y documentación**. Las pruebas físicas no repetidas siguen pendientes y no forman parte de esta declaración de convergencia.
 
 ## Entrega remota comprobada

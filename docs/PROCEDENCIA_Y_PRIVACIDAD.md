@@ -11,3 +11,7 @@ El vídeo completo, los fotogramas sin anonimizar, los respaldos y los manifiest
 Las imágenes publicadas son derivados de evidencia real anonimizados, no originales intactos. El código sigue mostrando identificadores de redes en la placa; para compartir tus propias fotos, debes volver a revisarlos. Los registros serie del sketch usan agregados y no imprimen SSID/BSSID.
 
 El inventario se limita a fuentes, referencias revisadas, documentación y ocho PNG. No se incorporan volcados de flash, firmware compilado, claves, credenciales, direcciones privadas ni vídeo completo. El `.gitignore` ayuda a evitar incorporaciones accidentales; la revisión del inventario sigue siendo necesaria.
+
+## Publicación posterior
+
+Por petición expresa del autor el 2026-10-30, este laboratorio pasa a público y se añade una descarga ZIP de fuentes bajo MIT. La política anterior de privacidad del repositorio queda sustituida; se mantiene la protección de SSID/BSSID y de archivos del dispositivo. El ZIP omite metadatos de exportación del IDE y solo contiene los tres fuentes, guía, referencia de pines y licencia.

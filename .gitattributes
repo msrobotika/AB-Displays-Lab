@@ -8,3 +8,4 @@ examples/radar-wifi-cyd/MAKERIDE_EXPORT.json -text
 examples/radar-wifi-cyd/MAKERIDE_HARDWARE_REFERENCE.txt -text
 examples/radar-wifi-cyd/reference/README.original.md -text
 *.png binary
+*.zip binary
