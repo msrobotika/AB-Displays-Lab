@@ -1,0 +1,16 @@
+.build/
+__pycache__/
+*.pyc
+backups/
+*.bin
+*.elf
+*.hex
+*.uf2
+*.map
+*.mp4
+*.mov
+*.zip
+.env
+.env.*
+secrets.*
+credentials.*

@@ -1,0 +1,10 @@
+# Preserve exact source and reference bytes on every platform.
+examples/radar-wifi-cyd/sketch.ino -text
+examples/radar-wifi-cyd/radar_logic.h -text
+examples/radar-wifi-cyd/radar_selftest.h -text
+examples/radar-wifi-cyd/MAKERIDE_EXPORT.json -text
+examples/radar-wifi-cyd/MAKERIDE_HARDWARE_REFERENCE.txt -text
+examples/radar-wifi-cyd/reference/README.original.md -text
+*.png binary
+*.md text eol=lf
+*.py text eol=lf
